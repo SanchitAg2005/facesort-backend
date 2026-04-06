@@ -1,0 +1,8 @@
+numpy
+opencv-python-headless
+pymongo
+python-dotenv
+requests
+
+insightface==0.7.3
+onnxruntime-gpu==1.16.3
